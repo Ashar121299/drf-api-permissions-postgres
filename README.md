@@ -19,6 +19,7 @@
 
 ### Set up 
 1.virtual enviroment _*(python -m venv .venv)*_
+
 2.build in Docker _*(docker_compose up)*_
 
 ### Run the code 
